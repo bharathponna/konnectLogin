@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/FreyrAutomation/FreyrMavenTestNG/konnectcoLogin/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
