@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="konnectSuite" duration-ms="42433" started-at="2020-02-18T12:06:05Z" finished-at="2020-02-18T12:06:48Z">
+  <suite name="konnectSuite" duration-ms="44476" started-at="2020-02-18T12:19:25Z" finished-at="2020-02-18T12:20:09Z">
     <groups>
     </groups>
-    <test name="TestLogin" duration-ms="42433" started-at="2020-02-18T12:06:05Z" finished-at="2020-02-18T12:06:48Z">
+    <test name="TestLogin" duration-ms="44476" started-at="2020-02-18T12:19:25Z" finished-at="2020-02-18T12:20:09Z">
       <class name="com.konnectco.login.Login">
-        <test-method status="PASS" signature="kLogin()[pri:0, instance:com.konnectco.login.Login@4d1b0d2a]" name="kLogin" duration-ms="42426" started-at="2020-02-18T17:36:05Z" finished-at="2020-02-18T17:36:48Z">
+        <test-method status="PASS" signature="kLogin()[pri:0, instance:com.konnectco.login.Login@4d1b0d2a]" name="kLogin" duration-ms="44469" started-at="2020-02-18T17:49:25Z" finished-at="2020-02-18T17:50:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- kLogin -->
